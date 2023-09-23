@@ -1,0 +1,31 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.icon_buscador{
+    display: inline-block;
+    
+    width: 24px;
+    height: 24px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+header ul li{
+    display: inline;
+    padding: 5px;
+}
+
+footer ul{
+    display: inline-block;
+    margin:auto 12px;
+}
+
+footer ul li{
+    display: inline;
+    padding: 15px;
+}
